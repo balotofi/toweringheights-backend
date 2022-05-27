@@ -1,6 +1,6 @@
 # Towering Heights Website and Student Results Management System
 
-![Contributors](https://img.shields.io/github/contributors/balotofi/toweringheights?style=plastic)
+![Contributors](https://img.shields.io/github/contributors/balotofi/toweringheights)
 ![Forks](https://img.shields.io/github/forks/balotofi/toweringheights)
 ![Stars](https://img.shields.io/github/stars/balotofi/toweringheights)
 ![Licence](https://img.shields.io/github/license/balotofi/toweringheights)
@@ -13,12 +13,19 @@
 Welcome onboard fellow developer/ designer, this is where you will upload your additions to our website.
 
 What was your motivation?
+
 Why did you build this project?
+
 What problem does it solve?
+
 What did you learn?
+
 What makes your project stand out?
+
 What your application does,
+
 Why you used the technologies you used,
+
 Some of the challenges you faced and features you hope to implement in the future.
 
 
@@ -26,19 +33,29 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 ### UI/UX Designers:
 
-[Celestina](https://www.github.com/celestinaa)
+[Celestina on GitHub](https://www.github.com/celestinaa)
 
-[Islamiat Olayinka](https://www.github.com/islamiah)
+[Celestina on Twitter](https://www.github.com/celestinaa)
+
+[Islamiat Olayinka on GitHub](https://www.github.com/islamiah)
+
+[Islamiat Olayinka on Twitter](https://www.github.com/islamiah)
 
 ### Frontend Devs:
 
-[Damola Orofin](https://www.github.com/meekunn)
+[Damola Orofin on GitHub](https://www.github.com/meekunn)
+
+[Damola Orofin on Twitter](https://www.github.com/meekunn)
 
 ### Backend Devs:
 
-[Husseinat Etti-Balogun](https://www.github.com/balotofi)
+[Husseinat Etti-Balogun on GitHub](https://www.github.com/balotofi)
 
-[Ahmeed Etti-Balogun](https://www.github.com/balofire)
+[Husseinat Etti-Balogun on Twitter](https://www.twitter.com/balotofi)
+
+[Ahmeed Etti-Balogun on GitHub](https://www.github.com/balofire)
+
+[Ahmeed Etti-Balogun on Twitter](https://www.github.com/balofire)
 
 
 ## For Collaborators
