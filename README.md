@@ -15,15 +15,20 @@ Welcome onboard fellow developer/ designer, this is where you will upload your a
 
 ## Team Members
 
-UI/UX Designers:
+### UI/UX Designers:
+
 [Celestina](https://www.github.com/celestinaa)
+
 [Islamiat Olayinka](https://www.github.com/islamiah)
 
-Frontend Devs:
+### Frontend Devs:
+
 [Damola Orofin](https://www.github.com/meekunn)
 
-Backend Devs:
+### Backend Devs:
+
 [Husseinat Etti-Balogun](https://www.github.com/balotofi)
+
 [Ahmeed Etti-Balogun](https://www.github.com/balofire)
 
 
@@ -49,7 +54,7 @@ The contribution guidelines are as per the guide [HERE](https://github.com/balot
 
 Each task will be linked to an open issue that the assigned member will be responsible for meeting and closing by the deadline given.
 
-| SR No | Task                                                  | Due Date                             | Member                                   |
+| ----- | ----------------------------------------------------- | -----------------------------------  | ---------------------------------------- |
 | 1     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 2     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | ----- | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
