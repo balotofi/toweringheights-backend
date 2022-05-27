@@ -22,7 +22,7 @@ What did you learn?
 
 What makes your project stand out?
 
-What your application does,
+What your application does...
 
 Why you used the technologies you used,
 
