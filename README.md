@@ -4,7 +4,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/balotofi/toweringheights)
 ![Forks](https://img.shields.io/github/forks/balotofi/toweringheights)
 ![Stars](https://img.shields.io/github/stars/balotofi/toweringheights)
-![License](https://img.shields.io/github/license/balotofi/toweringheights)
+![License](https://img.shields.io/github/license/balotofi/toweringheights?label=license&style=plastic)
 ![Issues](https://img.shields.io/github/issues/balotofi/toweringheights)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/balotofi/toweringheights/CODE_OF_CONDUCT.md)
 
