@@ -12,6 +12,15 @@
 
 Welcome onboard fellow developer/ designer, this is where you will upload your additions to our website.
 
+What was your motivation?
+Why did you build this project?
+What problem does it solve?
+What did you learn?
+What makes your project stand out?
+What your application does,
+Why you used the technologies you used,
+Some of the challenges you faced and features you hope to implement in the future.
+
 
 ## Team Members
 
@@ -54,8 +63,9 @@ The contribution guidelines are as per the guide [HERE](https://github.com/balot
 
 Each task will be linked to an open issue that the assigned member will be responsible for meeting and closing by the deadline given.
 
-| SR No | Task                                                  | Due Date                             | Member                                   |
-| 1     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+
+| SR No | Task | Due Date | Member |
+| ----- | ----- | ----- | ----- |
 | 1     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 2     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 3     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
@@ -64,3 +74,20 @@ Each task will be linked to an open issue that the assigned member will be respo
 | 6     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 7     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 8     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| 9     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| 10    | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+
+
+## References
+
+These are some pages we got insipration from while designing, articles we used, etc.
+
+### Websites
+
+[Beeston Hill St. Lukes C of E Primary Website](https://bsl.leeds.sch.uk/)
+
+[St. Lukes C of E Primary Website](https://www.stlukes.kingston.sch.uk/page/?title=Welcome&pid=121)
+
+[Sledmere Primary school website](https://www.sledmere.org/)
+
+### Articles
