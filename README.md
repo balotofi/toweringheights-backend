@@ -4,7 +4,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/balotofi/toweringheights)
 ![Forks](https://img.shields.io/github/forks/balotofi/toweringheights)
 ![Stars](https://img.shields.io/github/stars/balotofi/toweringheights)
-![Licence](https://img.shields.io/github/license/balotofi/toweringheights)
+![License](https://img.shields.io/github/license/balotofi/toweringheights)
 ![Issues](https://img.shields.io/github/issues/balotofi/toweringheights)
 
 ## This is a collaborations of awesome minds building a primary school website and student results management system.
