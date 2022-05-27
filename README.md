@@ -6,6 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/balotofi/toweringheights)
 ![License](https://img.shields.io/github/license/balotofi/toweringheights)
 ![Issues](https://img.shields.io/github/issues/balotofi/toweringheights)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/balotofi/toweringheights/codeofconduct.md)
 
 ## This is a collaborations of awesome minds building a primary school website and student results management system.
 
