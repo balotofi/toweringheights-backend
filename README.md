@@ -1,6 +1,7 @@
 # Towering Heights Website and Student Results Management System
 
 ![Contributors](https://img.shields.io/github/contributors/balotofi/toweringheights)
+![Last Commit](https://img.shields.io/github/last-commit/balotofi/toweringheights)
 ![Forks](https://img.shields.io/github/forks/balotofi/toweringheights)
 ![Stars](https://img.shields.io/github/stars/balotofi/toweringheights)
 ![Licence](https://img.shields.io/github/license/balotofi/toweringheights)
@@ -37,6 +38,7 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 [Celestina on Twitter](https://www.github.com/celestinaa)
 
+
 [Islamiat Olayinka on GitHub](https://www.github.com/islamiah)
 
 [Islamiat Olayinka on Twitter](https://www.github.com/islamiah)
@@ -52,6 +54,7 @@ Some of the challenges you faced and features you hope to implement in the futur
 [Husseinat Etti-Balogun on GitHub](https://www.github.com/balotofi)
 
 [Husseinat Etti-Balogun on Twitter](https://www.twitter.com/balotofi)
+
 
 [Ahmeed Etti-Balogun on GitHub](https://www.github.com/balofire)
 
