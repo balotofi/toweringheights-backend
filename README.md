@@ -52,11 +52,11 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 [Damola Orofin on GitHub](https://www.github.com/meekunn)
 
-[Damola Orofin on Twitter](https://www.github.com/meekunn)
+[Damola Orofin on Twitter](https://www.twitter.com/ardeydamola_25)
 
 [Destiny on GitHub](https://www.github.com/akpeedor)
 
-[Destiny Orofin on Twitter](https://www.github.com/meekunn)
+[Destiny Orofin on Twitter](https://www.twitter.com/_deetalks)
 
 ### Backend Devs:
 
