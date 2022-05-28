@@ -65,9 +65,9 @@ Some of the challenges you faced and features you hope to implement in the futur
 [Husseinat Etti-Balogun on Twitter](https://www.twitter.com/balotofi)
 
 
-[Balofire on GitHub](https://www.github.com/balofire)
+[Ahmeed Etti-Balogun on GitHub](https://www.github.com/balofire)
 
-[AhmeedEtti on Twitter](https://www.github.com/balofire)
+[Ahmeed Etti-Balogun on Twitter](https://twitter.com/AhmeedEtti?t=LyJDqHlVPgJlObB7QFx1FQ&s=09 )
 
 
 ## For Collaborators
