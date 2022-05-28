@@ -26,6 +26,10 @@ Welcome onboard fellow developer/ designer, this is where you will upload your a
 
 6. What will the application do?
 
+This web application will allow the parents of Towering Heights School to view the results of their children from the comfort of their own homes. 
+They will be able to download or print these results at their own leisure. 
+The main website will be a place to go to stay updated on the latest news and will be used as a way to woo prospective parents and pupils.
+
 7. Why are you going to use the technologies you will use?
 
 8. Some of the challenges you think we'll face and features you hope to implement in the future.
