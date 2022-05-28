@@ -14,21 +14,21 @@
 
 Welcome onboard fellow developer/ designer, this is where you will upload your additions to our website.
 
-What was your motivation?
+1. What was your motivation?
 
-Why did you build this project?
+2. Why do you want to build this project?
 
-What problem does it solve?
+3. What problem does it solve?
 
-What did you learn?
+4. What do you think you'll learn?
 
-What makes your project stand out?
+5. What do you think makes the project stand out?
 
-What your application does...
+6. What will the application do?
 
-Why you used the technologies you used,
+7. Why are you going to use the technologies you will use?
 
-Some of the challenges you faced and features you hope to implement in the future.
+8. Some of the challenges you think we'll face and features you hope to implement in the future.
 
 
 ## Team Members
