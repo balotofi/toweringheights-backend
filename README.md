@@ -8,11 +8,10 @@
 ![Issues](https://img.shields.io/github/issues/balotofi/toweringheights)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/balotofi/toweringheights/CODE_OF_CONDUCT.md)
 
-## This is a collaborations of awesome minds building a primary school website and student results management system.
-
 ### Description
 
 Welcome onboard fellow developer/ designer, this is where you will upload your additions to our website.
+This is a collaborations of awesome minds building a primary school website and student results management system.
 
 1. What was your motivation?
 
@@ -43,7 +42,7 @@ The main website will be a place to go to stay updated on the latest news and wi
 
 ### UI/UX Designers:
 
-Celestina: check her out on [GitHub](https://www.github.com/celestinaa) and [Twitter](https://www.github.com/celestinaa)
+Celestina Bamisaye: check her out on [GitHub](https://www.github.com/celestinaa) and [Twitter](https://www.github.com/celestinaa)
 
 Islamiat Olayinka: check her out on [GitHub](https://www.github.com/islamiah) and [Twitter](https://www.github.com/islamiah)
 
