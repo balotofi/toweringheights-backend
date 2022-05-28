@@ -33,6 +33,10 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 ## Team Members
 
+<div align='center'>
+  <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif' width=450>
+</div><br>
+
 ### UI/UX Designers:
 
 [Celestina on GitHub](https://www.github.com/celestinaa)
@@ -50,6 +54,10 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 [Damola Orofin on Twitter](https://www.github.com/meekunn)
 
+[Destiny on GitHub](https://www.github.com/akpeedor)
+
+[Destiny Orofin on Twitter](https://www.github.com/meekunn)
+
 ### Backend Devs:
 
 [Husseinat Etti-Balogun on GitHub](https://www.github.com/balotofi)
@@ -59,7 +67,7 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 [Balofire on GitHub](https://www.github.com/balofire)
 
-[@AhmeedEtti on Twitter](https://www.github.com/balofire)
+[AhmeedEtti on Twitter](https://www.github.com/balofire)
 
 
 ## For Collaborators
