@@ -39,35 +39,21 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 ### UI/UX Designers:
 
-[Celestina on GitHub](https://www.github.com/celestinaa)
+Celestina: check her out on [GitHub](https://www.github.com/celestinaa) and [Twitter](https://www.github.com/celestinaa)
 
-[Celestina on Twitter](https://www.github.com/celestinaa)
-
-
-[Islamiat Olayinka on GitHub](https://www.github.com/islamiah)
-
-[Islamiat Olayinka on Twitter](https://www.github.com/islamiah)
+Islamiat Olayinka: check her out on [GitHub](https://www.github.com/islamiah) and [Twitter](https://www.github.com/islamiah)
 
 ### Frontend Devs:
 
-[Damola Orofin on GitHub](https://www.github.com/meekunn)
+Damola Orofin: check her out on [GitHub](https://www.github.com/meekunn) and [Twitter](https://www.twitter.com/ardeydamola_25)
 
-[Damola Orofin on Twitter](https://www.twitter.com/ardeydamola_25)
-
-[Destiny on GitHub](https://www.github.com/akpeedor)
-
-[Destiny Orofin on Twitter](https://www.twitter.com/_deetalks)
+Destiny: check him out on [GitHub](https://www.github.com/akpeedor) and [Twitter](https://www.twitter.com/_deetalks)
 
 ### Backend Devs:
 
-[Husseinat Etti-Balogun on GitHub](https://www.github.com/balotofi)
+Husseinat Etti-Balogun: check her out on [GitHub](https://www.github.com/balotofi) and [Twitter](https://www.twitter.com/balotofi)
 
-[Husseinat Etti-Balogun on Twitter](https://www.twitter.com/balotofi)
-
-
-[Ahmeed Etti-Balogun on GitHub](https://www.github.com/balofire)
-
-[Ahmeed Etti-Balogun on Twitter](https://twitter.com/AhmeedEtti?t=LyJDqHlVPgJlObB7QFx1FQ&s=09 )
+Ahmeed Etti-Balogun: check him out on [GitHub](https://www.github.com/balofire) and [Twitter](https://twitter.com/AhmeedEtti?t=LyJDqHlVPgJlObB7QFx1FQ&s=09)
 
 
 ## For Collaborators
@@ -96,7 +82,7 @@ Each task will be linked to an open issue that the assigned member will be respo
 | SR No | Task | Due Date | Member |
 | ----- | ----- | ----- | ----- |
 | 1     | contribute to the readme | 10-6-2022 | all collaborators |
-| 2     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| 2     | First draft of UI/UX design| 26-06-2022 | Islamiyat, Celestina |
 | 3     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 4     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
 | 5     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
