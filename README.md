@@ -84,7 +84,7 @@ Each task will be linked to an open issue that the assigned member will be respo
 
 | SR No | Task | Due Date | Issue No. | Member |
 | ----- | ---- | -------- | --------- | ------ |
-| 1     | contribute to the readme | 10-6-2022 | #5, #6, #7, #8, #9, #10 | all collaborators |
+| 1     | contribute to the readme | 10-6-2022 | #3, #4, #5, #6, #7, #8, #10 | all collaborators |
 | 2     | First draft of UI/UX design| 26-06-2022 | -- | Islamiyat, Celestina |
 | 3     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
 | 4     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
