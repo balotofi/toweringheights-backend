@@ -33,6 +33,10 @@ The main website will be a place to go to stay updated on the latest news and wi
 
 8. Some of the challenges you think we'll face and features you hope to implement in the future.
 
+I believe one main challenge at first, will be working together as a big team. This is a new exciting project for lots of us, so ideas and unfamiliar technology will be flinging left,right and centre.
+However, after a while we should be functioning like a well oiled machine. For myself, this as well as the ever present battle between Devs and bugs will be a little challenging.
+In regard to the feature I would like to implement, being a python developer, I would love to use the Django framework for the Backend, having dabbled a little in Flask.
+
 
 ## Team Members
 
