@@ -31,6 +31,14 @@ The main website will be a place to go to stay updated on the latest news and wi
 
 7. Why are you going to use the technologies you will use?
 
+We'll be making use of **NextJS, TypeScript and Chakra-UI** from the frontend development; **Flask or Django** for Backend development; **Figma** for UI/UX Designs; **Github and Slack** for collaboration and communication.\
+a. [NextJS](https://nextjs.org/) is a React Framework for production. Reasons for NextJS include great user experience, great for SEO, great performance, flexibility with UI/UX builds, and many development advantages.\
+b. [TypeScript](https://www.typescriptlang.org/) is a programming language developed as a superset of JavaScript that helps manage large scale JS projects. Reasons for TypeScript include static typing, readability, compilation and auto-completion while coding.\
+c. [Chakra-UI](https://chakra-ui.com/) is a CSS library that provides accessible and reusable components for React Apps. Reasons for Chakra-UI include easily customizable, theme mode, and responsive styles(Media queries).\
+d. [Figma](https://www.figma.com/) is a design and prototyping tool used to design websites, applications. Reasons include speed and easy to use, promotes teamwork among designers, slack integration, and brings everyon on the team in the process.\
+e. [Github](http://github.com/) is an Internet hosting provider for software development and version control using Git. Reasons include slack integration, online repository that allows collaborators, keeps track of code, documentation.\
+f. [Slack](https://slack.com/) is a communication tool. Reasons include easy communication, allows integration of other apps, sharing of files. 
+
 8. Some of the challenges you think we'll face and features you hope to implement in the future.
 
 I believe one main challenge at first, will be working together as a big team. This is a new exciting project for lots of us, so ideas and unfamiliar technology will be flinging left, right and centre.
@@ -52,7 +60,7 @@ Islamiat Olayinka: check her out on [GitHub](https://www.github.com/islamiah) an
 
 ### Frontend Devs:
 
-Damola Orofin: check her out on [GitHub](https://www.github.com/meekunn) and [Twitter](https://www.twitter.com/ardeydamola_25)
+Adedamola Orofin: check her out on [GitHub](https://www.github.com/meekunn) and [Twitter](https://www.twitter.com/ardeydamola_25)
 
 Destiny: check him out on [GitHub](https://www.github.com/akpeedor) and [Twitter](https://www.twitter.com/_deetalks)
 
