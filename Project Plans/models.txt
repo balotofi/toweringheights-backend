@@ -1,0 +1,104 @@
+STUDENTS
+--------
+
+
+Document: Ibukun Ekunwe
+{
+    age: 17
+    sex: Male
+    curClass: SS1
+    curTerm: 2nd
+    curPos: 1st
+    generalSubjects: [
+        Math
+        Eng
+    ]
+    specialSubjects: [
+        Phonics
+        CRK
+    ]
+
+    sessions: {
+        2020/2021: {
+            class: SS1
+            repeatedPrevious: false
+
+            terms: {
+                1st term: {
+                    numInClass: 15
+                    pos: 2nd
+
+                    Exam: {
+                        Results: {
+                            Math: 99
+                            Chem: 78
+                            Bio: 69
+                            Phy: 84
+                            ...
+                        }
+                        Comments: {
+                            Teacher: "Very nice performance"
+                            Propietor: "Good tudent"
+                        }
+                    }
+
+                    Test1: {
+
+                    }
+
+                    Avg Scores: {
+                        Math: 89
+                        Eng: 70
+                    }
+
+                }
+            }
+        }
+        
+    }
+}
+
+
+
+
+
+CLASS_TEACHERS
+--------------
+Document: Ahmeed Etti
+{
+    name: Ahmeed Etti
+    age: 27
+    sex: Male
+    class: 824729344
+    hasLeft: False
+}
+
+
+SUBJECT_TEACHERS
+----------------
+Document: Phonics
+{
+    t_name: Mr Bayode
+    s_name: Phonics
+    age: 45
+    sex: Male
+    hasLeft: False
+    
+    classes: [
+        20704
+        83473
+        ...
+    ]
+}
+
+CLASSES
+-------
+Document: KG 1
+{
+    c_name: KG 1
+    students: [
+        048903
+        503493
+
+    ]
+}

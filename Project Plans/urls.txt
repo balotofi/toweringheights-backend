@@ -1,0 +1,25 @@
+TEACHERS
+--------
+BASE_URL: teacher/
+URLS: [
+    login/
+    logout/ 
+    <class_id>/dashboard/
+    <class_id>/<student_id>/
+    <class_id/<student_id>/edit
+]
+
+
+
+
+PARENTS
+-------
+BASE_URL: parent/
+URLS: [
+    login/
+    logout/
+    dashboard/
+    <student_id>/    
+]
+
+
