@@ -4,20 +4,11 @@ STUDENTS
 
 Document: Ibukun Ekunwe
 {
+    name: Ibukun Ekunwe
     age: 17
     sex: Male
-    curClass: SS1
-    curTerm: 2nd
     curPos: 1st
-    generalSubjects: [
-        Math
-        Eng
-    ]
-    specialSubjects: [
-        Phonics
-        CRK
-    ]
-
+    classId: 0302873
     sessions: {
         2020/2021: {
             class: SS1
@@ -100,5 +91,14 @@ Document: KG 1
         048903
         503493
 
+    ]
+    generalSubjects: [
+        Math
+        Eng
+    ]
+    specialSubjects: [
+        Phonics
+        IRS
+        CRS
     ]
 }
