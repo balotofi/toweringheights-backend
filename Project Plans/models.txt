@@ -8,19 +8,21 @@ Document: Ibukun Ekunwe
     age: 17
     sex: Male
     curPos: 1st
-    classId: 0302873
-    sessions: {
-        2020/2021: {
-            class: SS1
+    sessions: [
+        {
+            year: 2020/2021
+            class: 93483
             repeatedPrevious: false
 
-            terms: {
-                1st term: {
+            terms: [
+                {
                     numInClass: 15
                     pos: 2nd
 
-                    Exam: {
-                        Results: {
+                    Results[
+                        {
+                        Type: Exam
+                        Scores: {
                             Math: 99
                             Chem: 78
                             Bio: 69
@@ -31,22 +33,23 @@ Document: Ibukun Ekunwe
                             Teacher: "Very nice performance"
                             Propietor: "Good tudent"
                         }
-                    }
+                    ]
+                    
 
-                    Test1: {
-
-                    }
-
+                    
                     Avg Scores: {
                         Math: 89
                         Eng: 70
                     }
-
                 }
-            }
+            ]
+                
+            
         }
+    ]
         
-    }
+        
+    
 }
 
 
@@ -58,7 +61,7 @@ CLASS_TEACHERS
 Document: Ahmeed Etti
 {
     name: Ahmeed Etti
-    age: 27
+    age: 270
     sex: Male
     class: 824729344
     hasLeft: False

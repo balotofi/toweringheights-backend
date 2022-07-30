@@ -2,7 +2,14 @@ from djongo import models
 
 
 GENERAL_SUBJECTS = [
-    ("")
+    ("") #TODO: Based on the specific class.
+]
+
+SPECIAL_SUBJECTS = [
+    ("IRS", "Islamic Religious Studies"),
+    ("Phonics", "Phonics"),
+    ("Music", "Music"),
+    ("French", "French")
 ]
 
 CLASSES = [
@@ -26,7 +33,9 @@ TERMS = [
 
 
 class Class(models.Model):
-    pass
+    name = models.CharField(choices=CLASSES)
+    students = models.ArrayField()
+
 
 
 
@@ -41,7 +50,27 @@ class Student(models.Model):
         ]
     )
     cur_pos = models.PositiveIntegerField("Position")
-    class_ = models.ForeignKey(Class)
+    class_ = models.ForeignKey(Class, on_delete=models.PROTECT, verbose_name="Class")
 
-    sessions = models.Em
+    sessions = models.EmbeddedField()
 
+
+
+class ClassTeacher(models.Model):
+    first_name = models.CharField(max_length=100)
+    last_name = models.CharField(max_length=100)
+    age = models.PositiveIntegerField(max_length=3)
+    sex = models.CharField(
+        choices=[
+            ("M", "Male"),
+            ("F", "Female")
+        ]
+    )
+    class_ = models.ForeignKey(Class, on_delete=models.PROTECT, verbose_name="Class")
+    has_left =  models.BooleanField()
+
+    
+class SubjectTeacher(models.Model):
+    first_name = models.CharField(max_length=100)
+    last_name = models.CharField(max_length=100)
+    subject = models.CharField(choices=SPECIAL_SUBJECTS)
