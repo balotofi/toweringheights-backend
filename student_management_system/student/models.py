@@ -1,16 +1,6 @@
 from djongo import models
 
 
-GENERAL_SUBJECTS = [
-    ("") #TODO: Based on the specific class.
-]
-
-SPECIAL_SUBJECTS = [
-    ("IRS", "Islamic Religious Studies"),
-    ("Phonics", "Phonics"),
-    ("Music", "Music"),
-    ("French", "French")
-]
 
 CLASSES = [
     ("KG1", "Kindergaten 1"),
@@ -32,45 +22,28 @@ TERMS = [
 
 
 
-class Class(models.Model):
-    name = models.CharField(choices=CLASSES)
-    students = models.ArrayField()
-
-
-
-
 class Student(models.Model):
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
-    age = models.PositiveIntegerField(max_length=3)
+    age = models.PositiveIntegerField()
     sex = models.CharField(
+        max_length=2,
         choices=[
             ("M", "Male"),
             ("F", "Female")
         ]
     )
-    cur_pos = models.PositiveIntegerField("Position")
-    class_ = models.ForeignKey(Class, on_delete=models.PROTECT, verbose_name="Class")
+    # cur_pos = models.PositiveIntegerField("Position")
+    my_class = models.CharField("Class", choices=CLASSES, max_length=5, db_column="class")
 
-    sessions = models.EmbeddedField()
+    # sessions = models.EmbeddedField()
+
+    def __str__(self):
+        return f"{self.first_name} {self.last_name}"
 
 
 
-class ClassTeacher(models.Model):
-    first_name = models.CharField(max_length=100)
-    last_name = models.CharField(max_length=100)
-    age = models.PositiveIntegerField(max_length=3)
-    sex = models.CharField(
-        choices=[
-            ("M", "Male"),
-            ("F", "Female")
-        ]
-    )
-    class_ = models.ForeignKey(Class, on_delete=models.PROTECT, verbose_name="Class")
-    has_left =  models.BooleanField()
+# class Class(models.Model):
+#     name = models.CharField(choices=CLASSES, max_length=5)
+#     students = models.ArrayReferenceField(Student, on_delete=models.PROTECT)
 
-    
-class SubjectTeacher(models.Model):
-    first_name = models.CharField(max_length=100)
-    last_name = models.CharField(max_length=100)
-    subject = models.CharField(choices=SPECIAL_SUBJECTS)
