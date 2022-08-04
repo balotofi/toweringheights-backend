@@ -12,14 +12,11 @@ Document: Ibukun Ekunwe
         {
             year: 2020/2021
             class: 93483
-            repeatedPrevious: false
 
             terms: [
                 {
-                    numInClass: 15
-                    pos: 2nd
 
-                    Results[
+                    Results [
                         {
                         Type: Exam
                         Scores: {
@@ -85,23 +82,3 @@ Document: Phonics
     ]
 }
 
-CLASSES
--------
-Document: KG 1
-{
-    c_name: KG 1
-    students: [
-        048903
-        503493
-
-    ]
-    generalSubjects: [
-        Math
-        Eng
-    ]
-    specialSubjects: [
-        Phonics
-        IRS
-        CRS
-    ]
-}

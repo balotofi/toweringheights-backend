@@ -11,6 +11,11 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
 from pathlib import Path
+from dotenv import load_dotenv
+import os
+
+
+load_dotenv("../.env")
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -42,6 +47,8 @@ INSTALLED_APPS = [
     # My apps
     "teacher",
     "student",
+    "result",
+    "parent"
 ]
 
 MIDDLEWARE = [
@@ -78,14 +85,21 @@ WSGI_APPLICATION = 'student_management_system.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'djongo',
+#         'NAME': 'test_db',
+#         'ENFORCE_SCHEMA': False,
+#             'CLIENT': {
+#                 'host': os.environ.get("CONNECTION_STRING"),
+#             }
+#     }
+# }
+
 DATABASES = {
     'default': {
-        'ENGINE': 'djongo',
-        'NAME': 'test_db',
-        'ENFORCE_SCHEMA': False,
-            'CLIENT': {
-                'host': 'mongodb+srv://ibukun:drvnprgrmr-thsproject@thsproject.tb2fdyo.mongodb.net',
-            }
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': 'ths.db',
     }
 }
 

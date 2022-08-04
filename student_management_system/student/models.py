@@ -1,4 +1,4 @@
-from djongo import models
+from django.db import models
 
 
 
@@ -14,11 +14,6 @@ CLASSES = [
     ("P5", "Primary 5"),
 ]
 
-TERMS = [
-    ("1", "First Term"),
-    ("2", "Second Term"),
-    ("3", "Third Term"),
-]
 
 
 
