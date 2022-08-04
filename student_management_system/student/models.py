@@ -28,17 +28,22 @@ class Student(models.Model):
             ("F", "Female")
         ]
     )
-    # cur_pos = models.PositiveIntegerField("Position")
-    my_class = models.CharField("Class", choices=CLASSES, max_length=5, db_column="class")
-
-    # sessions = models.EmbeddedField()
-
+    
     def __str__(self):
         return f"{self.first_name} {self.last_name}"
 
+    
+    class Meta:
+        verbose_name_plural = "All students"
+        verbose_name = "All students"
 
 
-# class Class(models.Model):
-#     name = models.CharField(choices=CLASSES, max_length=5)
-#     students = models.ArrayReferenceField(Student, on_delete=models.PROTECT)
+
+class Class(models.Model):
+    name = models.CharField(choices=CLASSES, max_length=5)
+    students = models.ManyToManyField(Student)
+    teacher = models.ForeignKey("teacher.ClassTeacher", on_delete=models.PROTECT)
+
+    class Meta:
+        verbose_name_plural = "Classes"
 
