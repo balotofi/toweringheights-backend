@@ -22,6 +22,86 @@ TEST_TYPES = [
 ]
 
 
+class KG1(models.Model):
+    student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
+
+    term = models.CharField(max_length=2, choices=TERMS)
+    result_type = models.CharField(max_length=2, choices=TEST_TYPES)
+
+    #subjects
+    english = models.FloatField("English Language")
+    math = models.FloatField("Mathematics")
+    art = models.FloatField("Creative Art")
+    social_studies = models.FloatField("Social Studies")
+    health_education = models.FloatField("Health Education")
+    science = models.FloatField("Science")
+    writing = models.FloatField("Handwriting")
+    music_rhymes = models.FloatField("Music/Rhymes")
+
+class KG2(models.Model):
+    student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
+
+    term = models.CharField(max_length=2, choices=TERMS)
+    result_type = models.CharField(max_length=2, choices=TEST_TYPES)
+    #subjects
+    english = models.FloatField("English Language")
+    math = models.FloatField("Mathematics")
+    art = models.FloatField("Creative Art")
+    social_studies = models.FloatField("Social Studies")
+    health_education = models.FloatField("Health Education")
+    science = models.FloatField("Science")
+    writing = models.FloatField("Handwriting")
+    music_rhymes = models.FloatField("Music/Rhymes")
+    phonics = models.FloatField("Phonics")
+    computer = models.FloatField("Computer Studies")
+    crk = models.FloatField("Religious Education")
+
+
+class NUR1(models.Model):
+    student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
+
+    term = models.CharField(max_length=2, choices=TERMS)
+    result_type = models.CharField(max_length=2, choices=TEST_TYPES)
+
+    #subjects
+
+    english = models.FloatField("English Language")
+    math = models.FloatField("Mathematics")
+    art = models.FloatField("Creative Art")
+    social_studies = models.FloatField("Social Studies")
+    health_education = models.FloatField("Health Education")
+    science = models.FloatField("Science")
+    writing = models.FloatField("Handwriting")
+    music_rhymes = models.FloatField("Music/Rhymes")
+    phonics = models.FloatField("Phonics")
+    computer = models.FloatField("Computer Studies")
+    crk = models.FloatField("Religious Education")
+    qr = models.FloatField("Quantitative Reasoning")
+    vr = models.FloatField("Verbal Reasoning")
+
+
+class NUR2(models.Model):
+    student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
+
+    term = models.CharField(max_length=2, choices=TERMS)
+    result_type = models.CharField(max_length=2, choices=TEST_TYPES)
+
+    #subjects
+    english = models.FloatField("English Language")
+    math = models.FloatField("Mathematics")
+    art = models.FloatField("Creative Art")
+    social_studies = models.FloatField("Social Studies")
+    p_health_education = models.FloatField("P.H.E")
+    civic = models.FloatField("Civic Education")
+    sec_edu = models.FloatField("Security Education")
+    science = models.FloatField("Science")
+    writing = models.FloatField("Handwriting")
+    phonics = models.FloatField("Phonics")
+    computer = models.FloatField("Computer Studies")
+    crk = models.FloatField("C.R.K")
+    qr = models.FloatField("Quantitative Reasoning")
+    vr = models.FloatField("Verbal Reasoning")
+
 
 class PrimaryAbstract(models.Model):
     student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
@@ -30,24 +110,24 @@ class PrimaryAbstract(models.Model):
     result_type = models.CharField(max_length=2, choices=TEST_TYPES)
 
     # Subjects 
-    english = models.PositiveIntegerField()
-    math = models.PositiveIntegerField()
-    agric = models.PositiveIntegerField()
-    cca = models.PositiveIntegerField()
-    history = models.PositiveIntegerField()
-    ss = models.PositiveIntegerField()
-    he = models.PositiveIntegerField()
-    science = models.PositiveIntegerField()
-    computer = models.PositiveIntegerField()
-    civic = models.PositiveIntegerField()
-    security = models.PositiveIntegerField()
-    wr = models.PositiveIntegerField()
-    qr = models.PositiveIntegerField()
-    phonics = models.PositiveIntegerField()
-    writing = models.PositiveIntegerField()
-    phe = models.PositiveIntegerField()
-    crk = models.PositiveIntegerField()
-    yoruba = models.PositiveIntegerField()
+
+    english = models.FloatField("English Language")
+    math = models.FloatField("Mathematics")
+    art = models.FloatField("Creative Art")
+    social_studies = models.FloatField("Social Studies")
+    p_health_education = models.FloatField("P.H.E")
+    civic = models.FloatField("Civic Education")
+    sec_edu = models.FloatField("Security Education")
+    science = models.FloatField("Science")
+    writing = models.FloatField("Handwriting")
+    phonics = models.FloatField("Phonics")
+    computer = models.FloatField("Computer Studies")
+    crk = models.FloatField("C.R.K")
+    qr = models.FloatField("Quantitative Reasoning")
+    vr = models.FloatField("Verbal Reasoning")
+    agric = models.FloatField("Agriculture")
+    history = models.FloatField("History")
+    yoruba = models.FloatField("Yoruba")
     
 
 
