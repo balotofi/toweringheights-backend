@@ -1,5 +1,7 @@
 __pycache__/
 migrations/
+.vscode/
+.idea/
 
 .env
 ths.db
