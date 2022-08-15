@@ -38,6 +38,10 @@ class KG1(models.Model):
     writing = models.FloatField("Handwriting")
     music_rhymes = models.FloatField("Music/Rhymes")
 
+    class Meta:
+        verbose_name = "Kindergartan 1"
+        verbose_name_plural = "Kindergartan 1"
+
 class KG2(models.Model):
     student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
 
@@ -55,6 +59,11 @@ class KG2(models.Model):
     phonics = models.FloatField("Phonics")
     computer = models.FloatField("Computer Studies")
     crk = models.FloatField("Religious Education")
+
+    class Meta:
+        verbose_name = "Kindergartan 2"
+        verbose_name_plural = "Kindergartan 2"
+
 
 
 class NUR1(models.Model):
@@ -79,6 +88,11 @@ class NUR1(models.Model):
     qr = models.FloatField("Quantitative Reasoning")
     vr = models.FloatField("Verbal Reasoning")
 
+    class Meta:
+        verbose_name = "Nursery 1"
+        verbose_name_plural = "Nursery 1"
+
+
 
 class NUR2(models.Model):
     student = models.ForeignKey("student.Student", on_delete=models.PROTECT)
@@ -101,6 +115,11 @@ class NUR2(models.Model):
     crk = models.FloatField("C.R.K")
     qr = models.FloatField("Quantitative Reasoning")
     vr = models.FloatField("Verbal Reasoning")
+
+    class Meta:
+        verbose_name = "Nursery 2"
+        verbose_name_plural = "Nursery 2"
+
 
 
 class PrimaryAbstract(models.Model):
