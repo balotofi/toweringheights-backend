@@ -49,7 +49,7 @@ Islamiat Olayinka: check her out on [GitHub](https://www.github.com/islamiah) an
 
 Adedamola Orofin: check her out on [GitHub](https://www.github.com/meekunn) and [Twitter](https://www.twitter.com/ardeydamola_25)
 
-Eniola: check him out on [GitHub](https://www.github.com/orunto) and [Twitter](https://mobile.twitter.com/0runto)
+Abdullah Qassim: check him out on [GitHub](https://github.com/Bidex-03) and [Twitter](https://mobile.twitter.com/)
 
 ### Backend Devs:
 
