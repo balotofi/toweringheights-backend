@@ -78,35 +78,28 @@ The contribution guidelines are as per the guide [HERE](https://github.com/balot
 - Celebrate, your first step into the open Source World and contribute more  
 
 
-## Tasks
+## How to run it 
+manage.py is a command-line utility that comes with every Django project. It is used to perform various administrative tasks, such as creating a new Django app, running the development server, and creating database tables.
+It  sits in the root directory of the Django project. When you run it with a specific command, it loads the settings for the project and performs the requested task.
 
-Each task will be linked to an open issue that the assigned member will be responsible for meeting and closing by the deadline given.
+Here are some of the most commonly used manage.py commands:
 
-
-| SR No | Task | Due Date | Issue No. | Member |
-| ----- | ---- | -------- | --------- | ------ |
-| 1     | contribute to the readme | 10-6-2022 | #3, #4, #5, #6, #7, #8, #10 | all collaborators |
-| 2     | First draft of UI/UX design| 26-06-2022 | -- | Islamiyat, Celestina |
-| 3     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 4     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 5     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 6     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 7     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 8     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 9     | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
-| 10    | ----------------------------------------------------- | ------------------------------------ | ---------------------------------------- |----------------|
+runserver: Starts the development server.
+startapp: Creates a new Django app within your project.
+makemigrations: Creates new database migration files based on changes to your models.
+migrate: Applies database migrations to create or update database tables.
+createsuperuser: Creates a new superuser account for the Django admin.
+test: Runs tests for your Django project.
+You can run manage.py commands by navigating to the root directory of the Django project in a command-line interface and typing python manage.py <command>. You can also get a list of all available commands by running python manage.py help.
 
 
-## References
+
+## Website References
 
 These are some pages we got insipration from while designing, articles we used, etc.
-
-### Websites
 
 [Beeston Hill St. Lukes C of E Primary Website](https://bsl.leeds.sch.uk/)
 
 [St. Lukes C of E Primary Website](https://www.stlukes.kingston.sch.uk/page/?title=Welcome&pid=121)
 
 [Sledmere Primary school website](https://www.sledmere.org/)
-
-### Articles
