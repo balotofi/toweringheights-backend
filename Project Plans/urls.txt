@@ -1,6 +1,19 @@
-TEACHERS
+ADMIN
 --------
-BASE_URL: teacher/
+BASE_URL: admin/
+URLS: [
+    login/
+    logout/ 
+    < _id>/dashboard/
+    <class_id>/<student_id>/
+    <class_id/<student_id>/edit
+]
+
+
+
+FACULTY
+--------
+BASE_URL: staff/
 URLS: [
     login/
     logout/ 
@@ -12,7 +25,7 @@ URLS: [
 
 
 
-PARENTS
+PARENT
 -------
 BASE_URL: parent/
 URLS: [
