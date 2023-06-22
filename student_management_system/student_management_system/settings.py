@@ -95,8 +95,8 @@ WSGI_APPLICATION = 'student_management_system.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'ths.db',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'db.sql',
     }
 }
 
